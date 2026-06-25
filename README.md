@@ -1,7 +1,9 @@
 # 🎮 Number Guessing Game in C
 
 A simple console-based Number Guessing Game written in C.
+## 📷 Demo
 
+![Gameplay](Screenshot%202026-06-25%20183852.png)
 ## 📌 Features
 - Generates a random number between 1 and 100
 - Gives hints (Higher/Lower)
